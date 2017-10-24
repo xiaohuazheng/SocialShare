@@ -103,3 +103,9 @@
         var type = $(this).attr('stype') || 'weibo';
         weShare[type]();
     });
+
+## DEMO
+
+[点击查看demo][1]
+
+  [1]: https://xiaohuazheng.github.io/demos/share-demo.html
